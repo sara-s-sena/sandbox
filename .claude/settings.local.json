@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(code --list-extensions --show-versions)"
-    ]
-  }
-}
