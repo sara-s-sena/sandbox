@@ -14,3 +14,8 @@ Why
 ===
 
 I wanted to see how a programming language creates music from scratch. Math becoming sound.
+
+DEMO
+====
+
+[Watch on Youtube](https://youtube.com/shorts/0ry-g9C1UuA?si=wDYRQ_GvoSo7QZpA)
